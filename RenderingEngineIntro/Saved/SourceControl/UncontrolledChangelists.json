@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/BA/M92T5PBYDKD15G2RHSMC0J.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/76/NMLLLNOWO9Z4AVZYRNI9SZ.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/NG/OGZXQUQFKL5HMA9UIO6JMK.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/R1/WDELSWEJPMEBERKDKRA5I4.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/3M/CNENPC3L1RGCQ6570SPSHN.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/BY/C58O4DDPV7TSQY2FNJMT6M.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/Y8/TGDGBRSLZPOB64AB3US16G.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/Fab/Elk/DefaultMaterial_BaseColor.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/Fab/Elk/DefaultMaterial_Metallic.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/Fab/Elk/DefaultMaterial_Normal.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/Fab/Elk/DefaultMaterial_Roughness.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/Fab/Elk/ELK.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/Fab/Elk/elk1.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/Fab/Elk/DefaultMaterial_Mat.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/VS/XX060WNO6GEZU5BZQCLZPP.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/O1/0AJX1KRP5HUYKP7WWRTON9.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/13/EPTYZCFZWXT7Z7XYKZ88XK.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/27/6ZCCZ1F7ZO6DM3C8OLVGTF.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/BN/LKN4IB4C3UPW62GHBEKTIW.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/UM/1F7R5WQFM2D9KH7A94JFBU.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/6V/AV0JKCFBVPU58UEBGB0GC0.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/JD/OCW0UZT4ANZZD9YHEAOMAP.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/XM/SN8KJL01L24VVIYC52MNFR.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/UK/OT5UOZ3WBJ9P30TU3DBDEK.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/E2/L159AMTR83MORHTF2GEOKE.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/C5/3LNK9WKCBL4YVMWIBXQZ1I.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/KL/UYSRPQ5SOYIFVLEQINPH31.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/9R/UKIMD8EYGPZFS8OC6GX24A.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/2M/CYLC84O70AOQA0VDKVKLAA.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/IB/IOCHE2MAQATWKUYN5LELZF.uasset",
+				"C:/Users/chris/OneDrive/Documents/Unreal Projects/RenderingEngineIntro/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/V3/ESF0T0I7FH7D428JEOI0DH.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Interchange/Assets/Content/Materials/PhongSurfaceMaterial.uasset"
+			]
+		}
+	]
+}
